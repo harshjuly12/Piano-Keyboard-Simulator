@@ -1,7 +1,5 @@
 # Piano Keyboard Simulator 🎹
 
-A simple and interactive piano keyboard simulator built using TypeScript, HTML, and CSS. This project allows users to play piano sounds using their keyboard or mouse.
-
 ## Features
 
 - **Interactive Keyboard**: Play piano notes using your computer keyboard or mouse.
