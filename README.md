@@ -1,4 +1,13 @@
-# Piano Keyboard Simulator 🎹
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/397d67df-187d-4d3c-b983-73ee61a5035b" width="200" style="margin-right: 10;">
+    </td>
+    <td>
+      <h1 style="margin: 0;">Piano Keyboard Simulator</h1>
+    </td>
+  </tr>
+</table>
 
 ## Features
 
